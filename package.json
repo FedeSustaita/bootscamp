@@ -1,0 +1,15 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "mi primer proyecto de javascript en bootscamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hola-mundo",
+    "firsproyect"
+  ],
+  "author": "Federico Sustaita",
+  "license": "ISC"
+}
